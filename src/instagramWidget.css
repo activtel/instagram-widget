@@ -1,0 +1,23 @@
+.widget {
+  text-align: center;
+}
+
+.header {
+  background-color: #fff;
+  padding: 5px;
+  color: black;
+  background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.0975);
+}
+
+.title {
+  font-size: 1.5em;
+}
+
+.body {
+  background-color: #fafafa;
+  padding-top: 15px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center ;
+}
